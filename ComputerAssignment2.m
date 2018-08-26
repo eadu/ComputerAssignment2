@@ -1,7 +1,5 @@
-%Enoch Adu
 %ECE 302
 %Summ 2018
-%Dr. I-Fan
 %Computer Assignment 2
 
 %Exercise 1
